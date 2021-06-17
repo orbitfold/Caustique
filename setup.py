@@ -9,5 +9,5 @@ setup(
     author_email='unaudio@gmail.com',
     description='Causal Inference Tools',
     packages=find_packages(),    
-    install_requires=['numpy'],
+    install_requires=['numpy', 'matplotlib', 'pandas'],
 )
